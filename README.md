@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[notion]([url](https://www.notion.so/77minki/b5337ec0e9774f3c81bd49ff08cd1e78))
+[백준]([url](https://www.acmicpc.net/user/wer153))
+
+
 <!--
 **wer153/wer153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
